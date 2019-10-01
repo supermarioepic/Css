@@ -2,3 +2,12 @@ h1{
     background-color: red;
     text-align: center;
 }
+p{
+    font-style: italic
+}
+.link{
+    text-decoration: none
+}
+footer{
+    text-align: center
+}
